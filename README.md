@@ -26,15 +26,8 @@ Follow these steps to install and set up the project.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Andreaswt/hey-gen-clone.git
+https://github.com/paragaggarwal/Hey-Gen-Clone-App
 ```
-
-### Install Python
-
-Download and install Python if not already installed. Use the link below for guidance on installation:
-[Python Download](https://www.python.org/downloads/)
-
-Create a virtual environment with **Python 3.12**.
 
 ### Backend
 
