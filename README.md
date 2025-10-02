@@ -1,10 +1,4 @@
-# Hey Gen Clone
-
-![alt text](thumbnail.png)
-
-[Link to video](https://youtu.be/s4P-H-ptKr0)
-
-[Discord and more](https://www.andreastrolle.com/)
+# Hey Gen Clone App
 
 ## Overview
 
